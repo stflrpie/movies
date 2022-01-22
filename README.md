@@ -1,0 +1,2 @@
+# movies
+custom post type
